@@ -1,2 +1,1 @@
-# PasswordGenerator
-The password generator application enables users to create new passwords, assess their strength, and provides guidelines for setting secure passwords.
+The password generator application allows users to generate strong and unique passwords according to their preferences. It includes a feature to check the strength of a generated password, providing feedback on its robustness. Additionally, the application offers helpful guidelines for creating secure passwords, ensuring users follow best practices for safety, such as using a mix of uppercase and lowercase letters, numbers, and special characters.
